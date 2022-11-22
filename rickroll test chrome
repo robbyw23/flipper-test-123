@@ -1,7 +1,9 @@
 CTRL N
 STRING https://www.youtube.com/watch?v=xm3YgoEiEDc&ab_channel=10Hours
 DELAY 300
-F
+ENTER
+DELAY 200
+STRING F
 DELAY 400
 UPARROW
 DELAY 150
